@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IsItWeather</string>
+    <string name="start_screen">Tap to Start and Point at the Sky</string>
+    <string name="restart">Restart</string>
+</resources>

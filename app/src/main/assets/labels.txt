@@ -1,0 +1,6 @@
+cloudy
+partly cloudy
+rainy
+snowy
+starry
+sunny
